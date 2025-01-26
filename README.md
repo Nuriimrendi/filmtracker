@@ -26,7 +26,7 @@ A desktop application for tracking watched movies and managing watchlists, built
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/film-tracker.git
+   git clone https://github.com/Nuriimrendi/film-tracker.git
    cd film-tracker
    python3 main.py
    
